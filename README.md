@@ -1,6 +1,6 @@
 # CDataframe
 
-...
+Dans ce projet nous chercherons à creer un CDataFrame, dans une première partie nous nous concentrerons sur un CdataFrame d'entiers.
 
 Nous travaillons sur un projet visant à créer une bibliothèque en langage C qui reproduit les fonctionnalités de la librairie Pandas en Python. Pandas est connu pour sa capacité à manipuler efficacement les données via des structures appelées DataFrames, qui organisent les données en colonnes de types homogènes pour simplifier le traitement.
 
