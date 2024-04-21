@@ -30,6 +30,7 @@
 		F5D53DF52BD5350C00F821B3 /* colonne.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = colonne.h; sourceTree = "<group>"; };
 		F5D53DF62BD5353F00F821B3 /* colonne.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = colonne.c; sourceTree = "<group>"; };
 		F5D53DF82BD5354D00F821B3 /* cdataframe.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = cdataframe.c; sourceTree = "<group>"; };
+		F5D53DFA2BD53DC000F821B3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		F5E9B7302BCDAD3500773B38 /* cdataframe.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = cdataframe.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -52,6 +53,7 @@
 				F5D53DF52BD5350C00F821B3 /* colonne.h */,
 				F5D53DF82BD5354D00F821B3 /* cdataframe.c */,
 				F5E9B7302BCDAD3500773B38 /* cdataframe.h */,
+				F5D53DFA2BD53DC000F821B3 /* README.md */,
 				F5AB5A862BCD22010031DCF9 /* Products */,
 			);
 			sourceTree = "<group>";
