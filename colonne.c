@@ -447,7 +447,6 @@ int search_value_in_column(COLUMN *col, COL_TYPE value) {
 }
 
 
-// On a changé les paramètres, on a préféré mettre un COL_TYPE on se disait que c'était mieux.
 char *convert_value(ENUM_TYPE column_type, COL_TYPE value) {
     static char string[256];
     // on crée un tableau en static pour que lors du retour de la fonction le tableau soit conservée sinon
