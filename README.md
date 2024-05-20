@@ -18,13 +18,10 @@ Dans une seconde partie on va se diriger Vers un CDataframe encore plus performa
 Dans cette étape, notre objectif est d'améliorer le CDataframe précédent en intervenant sur deux fronts principaux :
 
 Amélioration de la structure des colonnes et du CDataframe pour permettre une utilisation plus flexible.
-Intégration de fonctionnalités avancées.
 
 1. Nouvelles structures de données
-Afin de rendre le CDataframe capable de stocker des données de types variés, une refonte de la structure des colonnes s'avère nécessaire. Bien que chaque colonne demeure un ensemble de données homogènes, nous aspirons à ce que différentes colonnes puissent contenir des types de données différents. Pour atteindre cet objectif, l'utilisation de types génériques s'impose.
+Afin de rendre le CDataframe capable de stocker des données de types variés, une refonte de la structure des colonnes s'avère nécessaire. Bien que chaque colonne demeure un ensemble de données homogènes, nous aspirons à ce que différentes colonnes puissent contenir des types de données différents.
 
 2. Fonctionnalités avancées
-L'expansion des fonctionnalités du CDataframe pourrait s'inspirer des capacités offertes par le "Dataframe" de "Pandas" en Python. Dans cette optique, nous examinerons en détail la fonction de tri des colonnes du CDataframe. Par ailleurs, des ajouts supplémentaires comme la concaténation ou la jointure pourraient être envisagés.
+L'expansion des fonctionnalités du CDataframe pourrait s'inspirer des capacités offertes par le "Dataframe" de "Pandas" en Python. Dans cette optique, nous examinerons en détail la fonction de tri des colonnes du CDataframe. 
 
-2.1. Tri de colonnes
-Dans ce volet, nous nous attarderons sur la fonctionnalité de tri des colonnes du CDataframe.
